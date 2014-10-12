@@ -1,0 +1,46 @@
+#results {
+	display: none;
+}
+
+.box {   
+    word-wrap: break-word;
+    width: 70%;
+    margin: 4px;  
+	border: 1px solid black;   
+	padding: 8px; 
+	font-size: 25px;
+	font-family: sans-serif; 
+}
+
+
+input {
+	word-wrap: break-word;
+	width: 15%;
+	height: 60px;
+	font-size: 25px;
+	font-family: sans-serif;
+}
+
+button {
+	background-color: #A3FFA3;
+	font-style: bold;
+	width: 20%;
+	height: 30px;
+	color: black!;
+	text-align: left;
+	border-color: black;
+	border-top-width: 3px;
+    border-right-width: 3px;
+    border-left-width: 3px;
+    border-bottom-width: 3px;
+}
+
+.btn-success {
+background-color: #85D6FF;
+color: black;
+border-color: blue;
+font-weight: bold;
+font-family: sans-serif;
+font-size: 16px;
+}
+

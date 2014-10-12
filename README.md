@@ -1,0 +1,1 @@
+User enters numbers (in digits) and app converts to numbers (in words), up to 10 trillion.
